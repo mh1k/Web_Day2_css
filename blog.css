@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(51, 13, 155);
+    background-color: gray;
+    height: 60px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.article1{
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 600px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 30px;
+    border-radius: 30px;
+    border-color: rgb(170, 146, 146);
+    border-style: solid;
+    
+}
+
+
+
+}
+.a1{
+    margin-left: 10px;
+    
+}
+.divi2{
+    display: inline;
+
+}
+
+.head1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(14, 48, 202);
+    padding-top: 10px;
+    background-color: rgb(221, 240, 238);
+    height: 40px;
+    border-radius: 50px;
+    margin-top: 5px;
+    width: 75%;
+    margin-left: 40px;
+}
+.img1{
+
+width: 380px;
+height: 250px;
+margin-left: 10px;
+margin-right: auto;
+margin-top: 5px;
+}
+.pa1{
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(51, 13, 155);
+    background-color: gray;
+    height: 60px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a2{
+    margin-left: 10px;
+    
+}
+
+.head2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: orchid;
+    padding-top: 10px;
+}
+.img2{
+
+width: 380px;
+height: 250px;
+margin-left: 10px;
+margin-right: auto;
+margin-top: 20px;
+}
+.pa2{
+    text-align: justify;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
